@@ -4,7 +4,7 @@
 ![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulMatarazo&show_icons=true&theme=dark)
 
 ## Top linguagens mais utilizadas
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMatarazo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMatarazo&layout=donut&theme=dark)
 
 ## Tecnologias em estudo
 <div style="display: inline_block"><br>
