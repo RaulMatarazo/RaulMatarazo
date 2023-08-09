@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Raul 👋
+## Olá blz? Eu sou o Raul 👋
 
 ![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulMatarazo&show_icons=true&theme=dark)
 
