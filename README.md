@@ -1,10 +1,10 @@
 
 ## Olá! Eu sou o Raul 👋
 
-![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulMatarazo&show_icons=true&)
+![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulMatarazo&show_icons=true&)]
 
 ## Top linguagens mais utilizadas
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaulMatarazo&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)]
 github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaulMatarazo&theme=dark
 ## Tecnologias em estudo
 <div style="display: inline_block"><br>
