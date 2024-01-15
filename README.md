@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## Technologies that currently interest me most ##
+### Technologies that currently interest me most
 - Java
 - SQL
 - C
