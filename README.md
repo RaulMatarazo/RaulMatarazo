@@ -1,7 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-### Technologies that currently interest me most
+## Technologies that currently interest me most
 - Java
 - SQL
 - C
 - JavaScript
+
+## Areas that interest me most
+- Back-End development
+- Machine Learning
+- IA
+- Database
