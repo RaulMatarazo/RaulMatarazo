@@ -1,10 +1,18 @@
 ### Hey 👋
 
+## My technologies
+- Java
+- MySQL
+- C
+- JavaScript / node.js
+- HTML
+- CSS
+
 ## Technologies that currently interest me most
 - Java
-- SQL
+- MySQL
 - C
-- JavaScript
+- Node JS
 
 ## Areas that interest me most
 - Back-End development
