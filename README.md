@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 ## Technologies that currently interest me most
 - Java
