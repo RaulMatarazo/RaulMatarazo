@@ -4,7 +4,7 @@
 - Java
 - MySQL
 - C
-- JavaScript / node.js
+- JavaScript / Node JS
 - HTML
 - CSS
 
