@@ -3,7 +3,7 @@
 ## Technologies that currently interest me most
 - Java
 - MySQL
-- C
+- C#
 - JavaScript / Node JS
 
 ## Areas that interest me most
