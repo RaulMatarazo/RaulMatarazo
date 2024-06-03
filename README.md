@@ -1,2 +1,4 @@
-# Hey 👋
-
+# Technology's 
+- Java ☕
+- Spring Boot Framework 🌱
+- MySQL 🐬
