@@ -1,13 +1,13 @@
 # Technology's 
 - Java ☕
-  - Spring Boot Framework 🌱
-    - Spring Web 🌐
-    - Lombok
-    - Thymeleaf 📃
-    - MySQL Driver
-    - Spring Data JPA 
-    - Flyway Migration
-    - Validation 🧑‍🔬
+- Spring Boot Framework 🌱
+  - Spring Web 🌐
+  - Lombok
+  - Thymeleaf 📃   
+  - MySQL Driver
+  - Spring Data JPA 
+  - Flyway Migration
+  - Validation 🧑‍🔬
 - MySQL 🐬
 - Git ♦️
 - UX / UI 🎨
