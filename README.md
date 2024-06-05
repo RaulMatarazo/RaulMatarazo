@@ -1,9 +1,9 @@
-# Technology's 
+## Technology's 
 - Java ☕
 - Spring Boot Framework 🌱
 - MySQL 🐬
 - Git ♦️
 - UX / UI 🎨
 
-# Project management methodologies
+## Project management methodologies
 - Scrum 🔧
