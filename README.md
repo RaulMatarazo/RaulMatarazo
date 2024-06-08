@@ -11,4 +11,4 @@
 ## Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMatarazo&layout=compact&theme=transparent)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/RaulMatarazo/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RaulMatarazo)](https://github.com/RaulMatarazo/github-readme-stats)
