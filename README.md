@@ -10,4 +10,4 @@
 - Waterfall 🏞️
 
 ## Languages that I use here
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMataraz&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMatarazo&layout=compact&theme=transparent)
