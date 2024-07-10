@@ -7,7 +7,7 @@
 - Web development 🌐
 - Open source development 👐
 - AI concepts 🤖
-- Project Manegement 👨‍💻
+- Project Management 👨‍💻
 
 ## Project management methodologies
 - Scrum 🔧
