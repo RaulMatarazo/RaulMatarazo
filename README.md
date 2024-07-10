@@ -5,9 +5,9 @@
 - Git ♦️
 - UX / UI 🎨
 - Web development 🌐
-- Open source development 👐🖥️👨‍💻
-- AI concepts 🤖📖
-- Project Manegement 👨‍💻👨‍💻
+- Open source development 👐
+- AI concepts 🤖
+- Project Manegement 👨‍💻
 
 ## Project management methodologies
 - Scrum 🔧
