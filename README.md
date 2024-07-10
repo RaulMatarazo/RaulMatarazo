@@ -4,6 +4,9 @@
 - MySQL 🐬
 - Git ♦️
 - UX / UI 🎨
+- Web development 🌐
+- Open source development 👐🖥️👨‍💻
+- AI concepts 🤖📖
 
 ## Project management methodologies
 - Scrum 🔧
