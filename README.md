@@ -4,5 +4,5 @@ I am currently studying to be a technician in Systems Development. I have knowle
 ## LinkedIn
 [@raulmatarazo](https://www.linkedin.com/in/raulmatarazo/)
 
-## Check out
+## Portfolio
 [@click-here](https://rauldevportfolio.netlify.app/)
