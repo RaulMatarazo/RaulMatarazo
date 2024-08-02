@@ -1,8 +1,10 @@
-## About me 
-I am currently studying to be a technician in Systems Development. I have knowledge in different areas of technology, such as: Front-end, Back-end, web development and Project Management. I am currently interested in the AI area, also I am taking free courses to improve my experience in that area and I am trying to get started in the data field.
+## Sobre mim
+Estou atualmente cursando o ensino médio profissionalizante em Desenvolvimento de Sistemas. Possuo habilidades em análise de dados com SQL, criação de REST APIs com Java e Spring Boot Framework, desenvolvimento web e gestão de projetos utilizando SCRUM e Waterfall. Sou fluente em português e tenho conhecimento avançado em inglês, com o objetivo de aprender novas línguas, como espanhol, italiano ou francês.
+
+Destaco-me pela boa comunicação, liderança, aprendizado contínuo, confiança, disciplina, foco, organização e adaptabilidade. Acredito que essas habilidades contribuem para um ambiente produtivo e harmonioso.
 
 ## LinkedIn
 [@raulmatarazo](https://www.linkedin.com/in/raulmatarazo/)
 
-## Portfolio
+## Portifólio
 Click [here](https://rauldevportfolio.netlify.app/) to see what I can do. See you there.
