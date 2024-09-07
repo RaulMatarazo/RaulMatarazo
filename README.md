@@ -5,7 +5,7 @@ Destaco-me pela boa comunicação, liderança, aprendizado contínuo, confiança
 
 Nos meus tempos livres, gosto de praticar esportes como musculação, natação e corrida. Também me interesso em estudar assuntos relevantes no mercado e relaxar.
 
-![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMatarazo&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMatarazo&hide_progress=true)
 
 ## Portifólio
 Clique [aqui](https://rauldevportfolio.netlify.app/)
