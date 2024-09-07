@@ -5,7 +5,5 @@ Destaco-me pela boa comunicação, liderança, aprendizado contínuo, confiança
 
 Nos meus tempos livres, gosto de praticar esportes como musculação, natação e corrida. Também me interesso em estudar assuntos relevantes no mercado e relaxar.
 
-##
-
 ## Portifólio
 Clique [aqui](https://rauldevportfolio.netlify.app/)
