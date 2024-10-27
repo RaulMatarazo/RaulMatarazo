@@ -33,4 +33,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-RaulMatarazo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/raululrichmatarazo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:raul.ulrich.matarazo@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/RaulMatarazo)
+[![GitHub](https://img.shields.io/github/followers/RaulMatarazo?label=follow&style=social)](https://github.com/RaulMatarazo)
