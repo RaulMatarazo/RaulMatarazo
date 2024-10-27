@@ -5,7 +5,6 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando técnico em desenvolvimento de sistemas
 - 💼 Trabalhando como estagiário de T.I na della rosa autopeças
-- 🌱 Aprendendo mais sobre desenvolvimento web
 
 ## Onde me encontrar
 
