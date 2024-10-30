@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando técnico em desenvolvimento de sistemas
 - 💼 Trabalhando como estagiário de T.I na della rosa autopeças
-- 📚 Estudando React JS e DevOps
+- 📚 Estudando React JS e práticas DevOps
 
 ## Onde me encontrar
 
