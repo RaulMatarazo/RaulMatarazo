@@ -1,4 +1,4 @@
-![Logo](https://yata.s3-object.locaweb.com.br/a25059b312921d3aba4f9b481bc11afa58f6b6452ef830b7475e970bd82a0103)
+![Logo](https://media.licdn.com/dms/image/v2/D4D16AQG3cmebYfFKvg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732021285352?e=1737590400&v=beta&t=wLc36AKfa5LJVJdQ_rduM8KeUSWr9D4anm3qq6Qut1Q)
 
 
 ![](https://komarev.com/ghpvc/?username=RaulMatarazo&color=006bed)
