@@ -14,6 +14,3 @@
 - 🎓 Cursando técnico em desenvolvimento de sistemas
 - 💼 Trabalhando como estagiário de T.I na della rosa autopeças, usando React JS e DevOps como principais tecnologias
 - 📚 Estudando práticas DevOps e engenharia de dados
-
-## Onde me encontrar
-
