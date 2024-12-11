@@ -1,5 +1,23 @@
 ![](https://komarev.com/ghpvc/?username=RaulMatarazo&color=006bed)
 # Olá!
+<style>
+      .libutton {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 7px;
+        text-align: center;
+        outline: none;
+        text-decoration: none !important;
+        color: #ffffff !important;
+        width: 200px;
+        height: 32px;
+        border-radius: 16px;
+        background-color: #0A66C2;
+        font-family: "SF Pro Text", Helvetica, sans-serif;
+      }
+    </style>
+<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7272711655988318208" target="_blank">Assinar no LinkedIn</a>
 ![Logo](https://media.licdn.com/dms/image/v2/D4D16AQG3cmebYfFKvg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732021285352?e=1737590400&v=beta&t=wLc36AKfa5LJVJdQ_rduM8KeUSWr9D4anm3qq6Qut1Q)
 
 ## Sobre mim
