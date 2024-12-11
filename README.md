@@ -15,5 +15,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/raululrichmatarazo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:raul.ulrich.matarazo@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/RaulMatarazo?label=follow&style=social)](https://github.com/RaulMatarazo)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@raul.ulrich.matarazo)]([https://medium.com/@raul.ulrich.matarazo](https://www.linkedin.com/newsletters/computing-concepts-7272711655988318208/))
+[![Newsletter](https://img.shields.io/badge/-Newsletter-blueviolet?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/newsletters/computing-concepts-7272711655988318208/)](https://www.linkedin.com/newsletters/computing-concepts-7272711655988318208/)
 
