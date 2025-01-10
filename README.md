@@ -13,4 +13,4 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando técnico em desenvolvimento de sistemas
 - 💼 Trabalhando como estagiário de T.I na della rosa autopeças, usando React JS, Delphi e DevOps como principais tecnologias
-- 📚 Estudando práticas DevOps
+- 📚 Estudando desenvolvimento Delphi
