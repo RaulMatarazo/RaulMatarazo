@@ -6,7 +6,7 @@
 
 
 
-![Logo](https://media.licdn.com/dms/image/v2/D4D16AQG3cmebYfFKvg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732021285352?e=1737590400&v=beta&t=wLc36AKfa5LJVJdQ_rduM8KeUSWr9D4anm3qq6Qut1Q)
+![Logo](https://media.licdn.com/dms/image/v2/D4D16AQG3cmebYfFKvg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732021285352?e=1743033600&v=beta&t=y9jDD0T4lDkiqWfQ1aVKAack_qdWZW2BiMlJA3-BdCI)
 
 ## Sobre mim
 
