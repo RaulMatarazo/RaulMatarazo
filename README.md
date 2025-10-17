@@ -6,6 +6,6 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Cursando técnico em desenvolvimento de sistemas
+- 🎓 Cursando último ano do técnico em desenvolvimento de sistemas
 - 💼 Trabalhando como estagiário de T.I na della rosa autopeças, usando React JS, Delphi e PostgreeSQL como principais tecnologias
 - 🗣️ Conhecimento avançado em inglês
