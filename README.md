@@ -6,6 +6,10 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Cursando último ano do técnico em desenvolvimento de sistemas
-- 💼 Trabalhando como estagiário de T.I na della rosa autopeças, usando React JS, Delphi e PostgreeSQL como principais tecnologias
-- 🗣️ Conhecimento avançado em inglês
+- 👨‍🎓 Técnico em Desenvolvimento de Sistemas.
+- 🎓 Cursando Bacharelado em Ciência da Computação na EEP.
+- 💼 Trabalhando como Desenvolvedor Júnior na [Della Rosa Autopeças](https://www.linkedin.com/company/dellarosa/posts/?feedView=all)
+- 📈 Experiência Profissional
+	- 🌱 Estagiário de TI na [Della Rosa Autopeças](https://www.linkedin.com/company/dellarosa/posts/?feedView=all)(1 ano e 5 meses)
+- 🚀 Utilizando React JS, Delphi e PostgreSQL como principais tecnologias
+- 🗣️ Conhecimento avançado em inglês e básico em alemão
