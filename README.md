@@ -11,5 +11,6 @@
 - 💼 Trabalhando como Desenvolvedor Júnior na [Della Rosa Autopeças](https://www.linkedin.com/company/dellarosa/posts/?feedView=all)
 - 📈 Experiência Profissional
 	- 🌱 Estagiário de TI na [Della Rosa Autopeças](https://www.linkedin.com/company/dellarosa/posts/?feedView=all) (1 ano e 5 meses)
+ 	- 🌱 Desenvolvedor Júnior na [Della Rosa Autopeças](https://www.linkedin.com/company/dellarosa/posts/?feedView=all) (atual)
 - 🚀 Utilizando React JS, Object Pascal e PostgreSQL como principais tecnologias
 - 🗣️ Conhecimento avançado em inglês e básico em alemão
